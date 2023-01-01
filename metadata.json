@@ -1,0 +1,11 @@
+{
+ "extension-id": "smart-spaces",
+ "uuid": "smart-spaces@gnome-shell-extensions.BreimerR.github.com",
+ "settings-schema": "org.gnome.shell.extensions.smart-spaces",
+ "gettext-domain": "gnome-shell-extensions",
+ "name": "Smart Spaces",
+ "description": "Auto Organise windows into spaces",
+ "shell-version": [ "42" ],
+ "original-authors": [ "brymher@gmail.com" ],
+ "url": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions"
+}
